@@ -1,0 +1,14 @@
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\bin\Debug\net7.0\binary-tree-sample.exe
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\bin\Debug\net7.0\binary-tree-sample.deps.json
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\bin\Debug\net7.0\binary-tree-sample.runtimeconfig.json
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\bin\Debug\net7.0\binary-tree-sample.dll
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\bin\Debug\net7.0\binary-tree-sample.pdb
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\binary-tree-sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\binary-tree-sample.AssemblyInfoInputs.cache
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\binary-tree-sample.AssemblyInfo.cs
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\binary-tree-sample.csproj.CoreCompileInputs.cache
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\binary-tree-sample.dll
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\refint\binary-tree-sample.dll
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\binary-tree-sample.pdb
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\binary-tree-sample.genruntimeconfig.cache
+D:\Lucas\Meus Projetos\DataStruct\Binary Tree\binary-tree-sample\obj\Debug\net7.0\ref\binary-tree-sample.dll

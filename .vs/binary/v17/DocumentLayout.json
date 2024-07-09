@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lucas\\Meus Projetos\\DataStruct\\Binary Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84EF4B47-8F74-426F-A999-A7940CC8BB44}|binary-tree-sample\\binary-tree-sample.csproj|d:\\lucas\\meus projetos\\datastruct\\binary tree\\binary-tree-sample\\models\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EF4B47-8F74-426F-A999-A7940CC8BB44}|binary-tree-sample\\binary-tree-sample.csproj|solutionrelative:binary-tree-sample\\models\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EF4B47-8F74-426F-A999-A7940CC8BB44}|binary-tree-sample\\binary-tree-sample.csproj|d:\\lucas\\meus projetos\\datastruct\\binary tree\\binary-tree-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EF4B47-8F74-426F-A999-A7940CC8BB44}|binary-tree-sample\\binary-tree-sample.csproj|solutionrelative:binary-tree-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EF4B47-8F74-426F-A999-A7940CC8BB44}|binary-tree-sample\\binary-tree-sample.csproj|d:\\lucas\\meus projetos\\datastruct\\binary tree\\binary-tree-sample\\models\\fizzbuss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EF4B47-8F74-426F-A999-A7940CC8BB44}|binary-tree-sample\\binary-tree-sample.csproj|solutionrelative:binary-tree-sample\\models\\fizzbuss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizzBuss.cs",
+              "DocumentMoniker": "D:\\Lucas\\Meus Projetos\\DataStruct\\Binary Tree\\binary-tree-sample\\Models\\FizzBuss.cs",
+              "RelativeDocumentMoniker": "binary-tree-sample\\Models\\FizzBuss.cs",
+              "ToolTip": "D:\\Lucas\\Meus Projetos\\DataStruct\\Binary Tree\\binary-tree-sample\\Models\\FizzBuss.cs",
+              "RelativeToolTip": "binary-tree-sample\\Models\\FizzBuss.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:01:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "D:\\Lucas\\Meus Projetos\\DataStruct\\Binary Tree\\binary-tree-sample\\Models\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "binary-tree-sample\\Models\\BinaryTree.cs",
+              "ToolTip": "D:\\Lucas\\Meus Projetos\\DataStruct\\Binary Tree\\binary-tree-sample\\Models\\BinaryTree.cs",
+              "RelativeToolTip": "binary-tree-sample\\Models\\BinaryTree.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:46:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lucas\\Meus Projetos\\DataStruct\\Binary Tree\\binary-tree-sample\\Program.cs",
+              "RelativeDocumentMoniker": "binary-tree-sample\\Program.cs",
+              "ToolTip": "D:\\Lucas\\Meus Projetos\\DataStruct\\Binary Tree\\binary-tree-sample\\Program.cs",
+              "RelativeToolTip": "binary-tree-sample\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:45:37.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
